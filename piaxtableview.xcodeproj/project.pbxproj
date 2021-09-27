@@ -13,6 +13,7 @@
 		AB9700822701D628003F7A75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB9700802701D628003F7A75 /* Main.storyboard */; };
 		AB9700842701D62A003F7A75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB9700832701D62A003F7A75 /* Assets.xcassets */; };
 		AB9700872701D62A003F7A75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB9700852701D62A003F7A75 /* LaunchScreen.storyboard */; };
+		AB97008F2701E0FB003F7A75 /* FancyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB97008E2701E0FB003F7A75 /* FancyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB9700832701D62A003F7A75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB9700862701D62A003F7A75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB9700882701D62A003F7A75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB97008E2701E0FB003F7A75 /* FancyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AB97007C2701D628003F7A75 /* SceneDelegate.swift */,
 				AB97007E2701D628003F7A75 /* ViewController.swift */,
 				AB9700802701D628003F7A75 /* Main.storyboard */,
+				AB97008E2701E0FB003F7A75 /* FancyTableViewCell.swift */,
 				AB9700832701D62A003F7A75 /* Assets.xcassets */,
 				AB9700852701D62A003F7A75 /* LaunchScreen.storyboard */,
 				AB9700882701D62A003F7A75 /* Info.plist */,
@@ -141,6 +144,7 @@
 				AB97007F2701D628003F7A75 /* ViewController.swift in Sources */,
 				AB97007B2701D628003F7A75 /* AppDelegate.swift in Sources */,
 				AB97007D2701D628003F7A75 /* SceneDelegate.swift in Sources */,
+				AB97008F2701E0FB003F7A75 /* FancyTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
